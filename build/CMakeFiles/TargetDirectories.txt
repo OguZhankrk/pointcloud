@@ -1,0 +1,3 @@
+/home/oguz/vs_code/createRangeImage/build/CMakeFiles/rebuild_cache.dir
+/home/oguz/vs_code/createRangeImage/build/CMakeFiles/edit_cache.dir
+/home/oguz/vs_code/createRangeImage/build/CMakeFiles/createRangeImage.dir
